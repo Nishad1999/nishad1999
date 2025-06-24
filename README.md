@@ -30,8 +30,7 @@ I'm a passionate **Backend Developer** specializing in scalable **Java microserv
 
 ## 📈 Contribution Graph
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishad&theme=tokyonight)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishad&theme=tokyonight&border_radius=5.5)
 
 ## 🧠 Fun Fact
 
