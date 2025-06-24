@@ -23,11 +23,8 @@ I'm a passionate **Backend Developer** specializing in scalable **Java microserv
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-> Technologies: Java • Spring Boot • Microservices • Kafka • Hibernate • Docker • CI/CD • MongoDB • Redis • PostgreSQL • JFrog • AWS • Jira
-
----
 
 ## 📈 Contribution Graph
 
